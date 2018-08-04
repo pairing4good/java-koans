@@ -4,7 +4,7 @@
 
 Running Instructions:
 =====================
-* Download and unarchive the contents of the most recent java-koans in development from:
+* Download and unarchive the contents of the most recent java-koans in development from:zzzz
 https://github.com/matyb/java-koans/archive/master.zip
 * Open a terminal and cd to the directory you unarchived:
 ```cd <the directory you just unarchived>```
