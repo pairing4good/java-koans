@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <packages>
-    <package pkg="beginner" name="assignment six">
-        <suite class="AboutKoans">
-        <koan name="findAboutKoansFile" displayIncompleteKoanException="false" />
-        <koan name="definitionOfKoanCompletion" displayIncompleteKoanException="false" />
-        </suite>
+    <package pkg="java8" name="assignment six">
         <suite class="AboutDefaultMethods"/>
         <suite class="AboutOptional"/>
         <suite class="AboutLocalTime"/>
