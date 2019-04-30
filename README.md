@@ -2,11 +2,15 @@
 
 [![Build Status](https://travis-ci.org/matyb/java-koans.png?branch=master)](https://travis-ci.org/matyb/java-koans)
 
+Installiation:
+===================
+* Visit https://github.com/pairing4good/java-koans
+* Click the `Fork` button in the upper right. (https://help.github.com/en/articles/fork-a-repo)
+* Clone your fork copy to your local computer. (https://help.github.com/en/articles/cloning-a-repository)
+
 Running Instructions:
 =====================
-* Download and unarchive the contents of the most recent java-koans in development from:
-https://github.com/matyb/java-koans/archive/master.zip
-* Open a terminal and cd to the directory you unarchived:
+* Open a terminal and cd to the directory you cloned:
 ```cd <the directory you just unarchived>```
 * Within it you'll find:
     * *koans*: this directory contains the application and its lessons, it is all that is needed to advance through the koans themselves and **it can be distributed independently**
